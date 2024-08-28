@@ -5,17 +5,17 @@ repo: upptime # The name of this repository
 sites:
   - name: HomeAssistant
     url: https://hass.898311.xyz:8123
-  - name: Router
-    url: http://hass.898311.xyz:8838/
-  - name: Hacker News
-    url: https://news.ycombinator.com
+  # - name: Router
+  #   url: http://hass.898311.xyz:8838/
+  # - name: Hacker News
+  #   url: https://news.ycombinator.com
   - name: Test Broken Site
     url: https://thissitedoesnotexist.koj.co
-  - name: IPv6 test
-    url: forwardemail.net
-    port: 80
+  - name: Router
+    url: hass.898311.xyz
+    port: 8838
     check: "tcp-ping"
-    ipv6: true
+    ipv6: false
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
