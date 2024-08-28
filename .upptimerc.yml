@@ -10,7 +10,7 @@ sites:
   # - name: Hacker News
   #   url: https://news.ycombinator.com
   - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
+    url: http://hass.898311.xyz:8200
   - name: Router
     url: hass.898311.xyz
     port: 8838
