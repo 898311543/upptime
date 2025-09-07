@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/hass.898311.xyz.ico",
     "slug": "home-assistant",
     "status": "down",
-    "uptime": "9.60%",
+    "uptime": "9.57%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "7.54%",
+    "uptimeYear": "7.26%",
     "time": 1121,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 1131,
+    "timeYear": 1130,
     "dailyMinutesDown": {
-      "2025-09-06": 98,
+      "2025-09-07": 107,
+      "2025-09-06": 1440,
       "2025-09-05": 1440,
       "2025-09-04": 1440,
       "2025-09-03": 1440,
@@ -356,8 +357,7 @@
       "2024-10-04": 1440,
       "2024-10-03": 544,
       "2024-09-28": 18,
-      "2024-09-18": 15,
-      "2024-09-07": 22
+      "2024-09-18": 15
     }
   },
   {
@@ -366,7 +366,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/hass.898311.xyz.ico",
     "slug": "alist",
     "status": "up",
-    "uptime": "92.30%",
+    "uptime": "92.32%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.95%",
@@ -374,8 +374,8 @@
     "time": 580,
     "timeDay": 517,
     "timeWeek": 517,
-    "timeMonth": 525,
-    "timeYear": 578,
+    "timeMonth": 524,
+    "timeYear": 579,
     "dailyMinutesDown": {
       "2025-08-08": 23,
       "2025-07-29": 783,
@@ -424,8 +424,7 @@
       "2024-10-12": 217,
       "2024-10-06": 1108,
       "2024-10-05": 228,
-      "2024-09-28": 17,
-      "2024-09-07": 31
+      "2024-09-28": 17
     }
   },
   {
@@ -440,9 +439,9 @@
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.28%",
     "time": 237,
-    "timeDay": 240,
-    "timeWeek": 243,
-    "timeMonth": 241,
+    "timeDay": 230,
+    "timeWeek": 240,
+    "timeMonth": 240,
     "timeYear": 236,
     "dailyMinutesDown": {
       "2025-08-08": 22,
@@ -456,8 +455,7 @@
       "2024-10-12": 215,
       "2024-10-06": 1108,
       "2024-10-05": 227,
-      "2024-09-28": 16,
-      "2024-09-07": 20
+      "2024-09-28": 16
     }
   }
 ]
