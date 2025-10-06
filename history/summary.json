@@ -5,7 +5,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/hass.898311.xyz.ico",
     "slug": "home-assistant",
     "status": "down",
-    "uptime": "8.90%",
+    "uptime": "8.88%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -16,7 +16,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-10-05": 109,
+      "2025-10-06": 103,
+      "2025-10-05": 1440,
       "2025-10-04": 1440,
       "2025-10-03": 1440,
       "2025-10-02": 1440,
@@ -379,8 +380,7 @@
       "2024-10-10": 1440,
       "2024-10-09": 1440,
       "2024-10-08": 1440,
-      "2024-10-07": 1440,
-      "2024-10-06": 1440
+      "2024-10-07": 1440
     }
   },
   {
@@ -389,18 +389,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/hass.898311.xyz.ico",
     "slug": "alist",
     "status": "down",
-    "uptime": "91.48%",
+    "uptime": "91.25%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "39.58%",
-    "uptimeMonth": "81.80%",
-    "uptimeYear": "90.63%",
+    "uptimeWeek": "25.36%",
+    "uptimeMonth": "78.53%",
+    "uptimeYear": "90.42%",
     "time": 711,
     "timeDay": 0,
-    "timeWeek": 458,
-    "timeMonth": 1856,
+    "timeWeek": 478,
+    "timeMonth": 1888,
     "timeYear": 722,
     "dailyMinutesDown": {
-      "2025-10-05": 109,
+      "2025-10-06": 103,
+      "2025-10-05": 1440,
       "2025-10-04": 1440,
       "2025-10-03": 1440,
       "2025-10-02": 1440,
@@ -454,8 +455,7 @@
       "2024-10-21": 102,
       "2024-10-19": 21,
       "2024-10-13": 942,
-      "2024-10-12": 217,
-      "2024-10-06": 1108
+      "2024-10-12": 217
     }
   },
   {
@@ -464,18 +464,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "router",
     "status": "down",
-    "uptime": "99.28%",
-    "uptimeDay": "77.37%",
-    "uptimeWeek": "96.77%",
-    "uptimeMonth": "99.26%",
-    "uptimeYear": "99.22%",
+    "uptime": "99.03%",
+    "uptimeDay": "0.00%",
+    "uptimeWeek": "82.55%",
+    "uptimeMonth": "95.98%",
+    "uptimeYear": "99.01%",
     "time": 237,
     "timeDay": 0,
-    "timeWeek": 221,
-    "timeMonth": 233,
+    "timeWeek": 222,
+    "timeMonth": 232,
     "timeYear": 236,
     "dailyMinutesDown": {
-      "2025-10-05": 109,
+      "2025-10-06": 103,
+      "2025-10-05": 1440,
       "2025-10-04": 216,
       "2025-08-08": 22,
       "2025-05-13": 51,
@@ -485,8 +486,7 @@
       "2024-11-02": 214,
       "2024-10-21": 101,
       "2024-10-13": 930,
-      "2024-10-12": 215,
-      "2024-10-06": 1108
+      "2024-10-12": 215
     }
   }
 ]
