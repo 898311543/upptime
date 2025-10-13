@@ -5,7 +5,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/hass.898311.xyz.ico",
     "slug": "home-assistant",
     "status": "down",
-    "uptime": "8.75%",
+    "uptime": "8.73%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -16,7 +16,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-10-12": 105,
+      "2025-10-13": 109,
+      "2025-10-12": 1440,
       "2025-10-11": 1440,
       "2025-10-10": 1440,
       "2025-10-09": 1440,
@@ -379,8 +380,7 @@
       "2024-10-17": 1440,
       "2024-10-16": 1440,
       "2024-10-15": 1440,
-      "2024-10-14": 1440,
-      "2024-10-13": 1440
+      "2024-10-14": 1440
     }
   },
   {
@@ -389,18 +389,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/hass.898311.xyz.ico",
     "slug": "alist",
     "status": "down",
-    "uptime": "89.92%",
+    "uptime": "89.70%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.20%",
-    "uptimeMonth": "58.84%",
-    "uptimeYear": "88.97%",
+    "uptimeMonth": "55.55%",
+    "uptimeYear": "88.76%",
     "time": 711,
     "timeDay": 0,
     "timeWeek": 404,
-    "timeMonth": 2068,
+    "timeMonth": 2111,
     "timeYear": 722,
     "dailyMinutesDown": {
-      "2025-10-12": 105,
+      "2025-10-13": 109,
+      "2025-10-12": 1440,
       "2025-10-11": 1440,
       "2025-10-10": 1440,
       "2025-10-09": 1440,
@@ -459,8 +460,7 @@
       "2024-11-03": 806,
       "2024-11-02": 215,
       "2024-10-21": 102,
-      "2024-10-19": 21,
-      "2024-10-13": 942
+      "2024-10-19": 21
     }
   },
   {
@@ -471,13 +471,13 @@
     "status": "up",
     "uptime": "99.01%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "83.56%",
+    "uptimeWeek": "97.88%",
     "uptimeMonth": "95.48%",
-    "uptimeYear": "99.16%",
+    "uptimeYear": "99.23%",
     "time": 237,
-    "timeDay": 219,
-    "timeWeek": 234,
-    "timeMonth": 233,
+    "timeDay": 261,
+    "timeWeek": 237,
+    "timeMonth": 235,
     "timeYear": 236,
     "dailyMinutesDown": {
       "2025-10-06": 322,
@@ -489,8 +489,7 @@
       "2024-11-11": 60,
       "2024-11-03": 806,
       "2024-11-02": 214,
-      "2024-10-21": 101,
-      "2024-10-13": 930
+      "2024-10-21": 101
     }
   }
 ]
