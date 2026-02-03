@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/hass.898311.xyz.ico",
     "slug": "home-assistant",
     "status": "down",
-    "uptime": "6.86%",
+    "uptime": "6.84%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 1148,
+    "time": 1175,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-02-02": 155,
+      "2026-02-03": 152,
+      "2026-02-02": 1440,
       "2026-02-01": 1440,
       "2026-01-31": 1440,
       "2026-01-30": 1440,
@@ -379,8 +380,7 @@
       "2025-02-07": 1440,
       "2025-02-06": 1440,
       "2025-02-05": 1440,
-      "2025-02-04": 1440,
-      "2025-02-03": 1440
+      "2025-02-04": 1440
     }
   },
   {
@@ -389,7 +389,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/hass.898311.xyz.ico",
     "slug": "alist",
     "status": "down",
-    "uptime": "70.58%",
+    "uptime": "70.44%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -400,7 +400,8 @@
     "timeMonth": 0,
     "timeYear": 780,
     "dailyMinutesDown": {
-      "2026-02-02": 155,
+      "2026-02-03": 152,
+      "2026-02-02": 1440,
       "2026-02-01": 1440,
       "2026-01-31": 1440,
       "2026-01-30": 1440,
@@ -545,8 +546,7 @@
       "2025-02-07": 1440,
       "2025-02-06": 1440,
       "2025-02-05": 1440,
-      "2025-02-04": 1440,
-      "2025-02-03": 1440
+      "2025-02-04": 1440
     }
   },
   {
@@ -555,15 +555,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "router",
     "status": "up",
-    "uptime": "99.22%",
+    "uptime": "99.23%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.61%",
     "time": 236,
-    "timeDay": 221,
-    "timeWeek": 247,
-    "timeMonth": 237,
+    "timeDay": 210,
+    "timeWeek": 239,
+    "timeMonth": 235,
     "timeYear": 237,
     "dailyMinutesDown": {
       "2025-10-06": 322,
